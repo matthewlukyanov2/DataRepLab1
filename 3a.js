@@ -9,7 +9,14 @@ let addTask = (task) => {
 }
 //3c
 let listAllTasks = ()=> {
-    
-}
+    console.log("Current Tasks:");
+    tasks.forEach((element) => {
+        console.log(element); // Print each task with its index
+    });
+
+ }; 
+
 
 addTask("Work");
+listAllTasks();
+
