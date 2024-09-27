@@ -4,7 +4,7 @@ let a = ()=> {
 
 a();
 
-//let b = (value)=> {
-     //console.log(value);
-//}
-//b("Bye");
+let b = (value)=> {
+     console.log(value);
+}
+b("Data Representation & Querying");
