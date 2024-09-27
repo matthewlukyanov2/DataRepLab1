@@ -5,6 +5,7 @@ let a = ()=> {
 a();
 
 let b = (value)=> {
-     console.log(value);
+    console.log(value);
 }
 b("Data Representation & Querying");
+
