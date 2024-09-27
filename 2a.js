@@ -1,10 +1,10 @@
 let a = ()=> {
-    console.log("Hello a");
+    console.log("Data Representation & Querying");
 }
 
 a();
 
-let b = (value)=> {
-     console.log(value);
-}
-b("Bye");
+//let b = (value)=> {
+     //console.log(value);
+//}
+//b("Bye");
